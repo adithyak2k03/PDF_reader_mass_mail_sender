@@ -1,0 +1,18 @@
+First this is ipynb file so make a copy and then past it in jupyter notebook or google colab.
+
+also the book i've used to extract random quotes from is 
+
+"The Great Book Of Best Quotes of All Time" by Abhi Sharma
+
+I don't own the rights book so I should not upload a free copy of the book.
+But you can find a copy of this book online.
+
+OR
+
+Find another book of your choice where the text is copyable, and modify the code based on ur wish.
+
+In my code I only preferred 1 Line quotes.But we can get more line if we want.
+
+Warning: Dont use to spam mail by giving count value more than 20 at time. It would crash the mailing services or the code because we are using SMTP to send mail.
+
+Also there are some quotes that have non-english alphabet which is not availble in python. So we have add code to decode to UTF-8 so printing the characters are possible in python or error occurs and terminates the program
